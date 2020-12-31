@@ -1,0 +1,32 @@
+﻿body {
+
+  font-family: 'open sans', sans-serif;
+  background: #e62727;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'open sans', sans-serif;
+}
+
+.paginicio {
+  padding:0;
+  background: #e62727; 
+	border-color: #e62727;
+	border-style:solid;
+  text-align: center;
+	color:#ffffff;
+  width:100%;
+  font-size: 1.75vw;
+	font-family: 'open sans';
+	top:5%; 
+}
+img {
+  max-width: 350px;
+  width: 40%;
+  height: auto;
+}
+
+.paginicio .brand{
+  font-size: 3vw;
+  font-family: 'open sans';
+}
